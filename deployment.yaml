@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: demo
-        image: sagarpatil98/demoyoutubeautomation:1
+        image: sagarpatil98/demoyoutubeautomation:2
         ports:
         - containerPort: 80
 
